@@ -34,7 +34,7 @@ GearFixing:<br>
 5. The application will generate a detailed bill, displaying the car type, service codes, charges for each service, total bill amount, and a complimentary cleaning message if the total bill exceeds ₹10,000.
 
 Note: The available service codes and their corresponding services are displayed before entering the service codes.<br>
-![logo](OOPs-Company-Assignment-1-Question-2
-/Screenshot 2023-06-16 133247.png)
+<br>
+![logo](img/image.png)
 
      
