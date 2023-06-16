@@ -1,3 +1,5 @@
+
+
 <h1 align="center"> Car Service Application(OOPs)👋</h1>
 * This Java application simulates a car service station that offers different types of services for various car types. The application allows users to generate a detailed bill based on the selected car type and service codes.
 
@@ -31,5 +33,8 @@ GearFixing:<br>
 4. Enter the and 0r paly for adding more Or Calculating price:-
 5. The application will generate a detailed bill, displaying the car type, service codes, charges for each service, total bill amount, and a complimentary cleaning message if the total bill exceeds ₹10,000.
 
-Note: The available service codes and their corresponding services are displayed before entering the service codes.
-  ![](imag.png)
+Note: The available service codes and their corresponding services are displayed before entering the service codes.<br>
+![logo](OOPs-Company-Assignment-1-Question-2
+/Screenshot 2023-06-16 133247.png)
+
+     
